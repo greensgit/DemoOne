@@ -6,9 +6,12 @@ public class Demo {
 		
 		System.out.println("This is demo");
 	}
-
 	private void login() {
 		System.out.println("This is raja writing login related functinalities");
 	}
 	
+	private void addToKart() {
+		System.out.println("This is boopalan writing logic for add to kart");
+	}
+
 }
