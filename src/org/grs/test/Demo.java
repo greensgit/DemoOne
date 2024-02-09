@@ -7,4 +7,8 @@ public class Demo {
 		System.out.println("This is demo");
 	}
 
+	private void login() {
+		System.out.println("This is raja writing login related functinalities");
+	}
+	
 }
